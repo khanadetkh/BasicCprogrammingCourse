@@ -1,0 +1,3 @@
+D:/Text Book/C Programming/BasicCprogrammingCourse/cmake-build-debug/CMakeFiles/simple_example.dir
+D:/Text Book/C Programming/BasicCprogrammingCourse/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Text Book/C Programming/BasicCprogrammingCourse/cmake-build-debug/CMakeFiles/rebuild_cache.dir
