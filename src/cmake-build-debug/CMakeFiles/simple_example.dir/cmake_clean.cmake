@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/simple_example.dir/datatypes.c.obj"
+  "CMakeFiles/simple_example.dir/displaydata.c.obj"
   "libsimple_example.dll.a"
   "simple_example.exe"
   "simple_example.exe.manifest"

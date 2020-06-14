@@ -122,32 +122,32 @@ simple_example/fast:
 	$(MAKE) -f CMakeFiles\simple_example.dir\build.make CMakeFiles/simple_example.dir/build
 .PHONY : simple_example/fast
 
-datatypes.obj: datatypes.c.obj
+displaydata.obj: displaydata.c.obj
 
-.PHONY : datatypes.obj
+.PHONY : displaydata.obj
 
 # target to build an object file
-datatypes.c.obj:
-	$(MAKE) -f CMakeFiles\simple_example.dir\build.make CMakeFiles/simple_example.dir/datatypes.c.obj
-.PHONY : datatypes.c.obj
+displaydata.c.obj:
+	$(MAKE) -f CMakeFiles\simple_example.dir\build.make CMakeFiles/simple_example.dir/displaydata.c.obj
+.PHONY : displaydata.c.obj
 
-datatypes.i: datatypes.c.i
+displaydata.i: displaydata.c.i
 
-.PHONY : datatypes.i
+.PHONY : displaydata.i
 
 # target to preprocess a source file
-datatypes.c.i:
-	$(MAKE) -f CMakeFiles\simple_example.dir\build.make CMakeFiles/simple_example.dir/datatypes.c.i
-.PHONY : datatypes.c.i
+displaydata.c.i:
+	$(MAKE) -f CMakeFiles\simple_example.dir\build.make CMakeFiles/simple_example.dir/displaydata.c.i
+.PHONY : displaydata.c.i
 
-datatypes.s: datatypes.c.s
+displaydata.s: displaydata.c.s
 
-.PHONY : datatypes.s
+.PHONY : displaydata.s
 
 # target to generate assembly for a file
-datatypes.c.s:
-	$(MAKE) -f CMakeFiles\simple_example.dir\build.make CMakeFiles/simple_example.dir/datatypes.c.s
-.PHONY : datatypes.c.s
+displaydata.c.s:
+	$(MAKE) -f CMakeFiles\simple_example.dir\build.make CMakeFiles/simple_example.dir/displaydata.c.s
+.PHONY : displaydata.c.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... simple_example
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... datatypes.obj
-	@echo ... datatypes.i
-	@echo ... datatypes.s
+	@echo ... displaydata.obj
+	@echo ... displaydata.i
+	@echo ... displaydata.s
 .PHONY : help
 
 

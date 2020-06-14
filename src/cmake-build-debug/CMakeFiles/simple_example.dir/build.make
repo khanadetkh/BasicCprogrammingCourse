@@ -56,27 +56,27 @@ include CMakeFiles/simple_example.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/simple_example.dir/flags.make
 
-CMakeFiles/simple_example.dir/datatypes.c.obj: CMakeFiles/simple_example.dir/flags.make
-CMakeFiles/simple_example.dir/datatypes.c.obj: ../datatypes.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Text Book\C Programming\BasicCprogrammingCourse\src\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/simple_example.dir/datatypes.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\simple_example.dir\datatypes.c.obj   -c "D:\Text Book\C Programming\BasicCprogrammingCourse\src\datatypes.c"
+CMakeFiles/simple_example.dir/displaydata.c.obj: CMakeFiles/simple_example.dir/flags.make
+CMakeFiles/simple_example.dir/displaydata.c.obj: ../displaydata.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\Text Book\C Programming\BasicCprogrammingCourse\src\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/simple_example.dir/displaydata.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\simple_example.dir\displaydata.c.obj   -c "D:\Text Book\C Programming\BasicCprogrammingCourse\src\displaydata.c"
 
-CMakeFiles/simple_example.dir/datatypes.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/simple_example.dir/datatypes.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\Text Book\C Programming\BasicCprogrammingCourse\src\datatypes.c" > CMakeFiles\simple_example.dir\datatypes.c.i
+CMakeFiles/simple_example.dir/displaydata.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/simple_example.dir/displaydata.c.i"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\Text Book\C Programming\BasicCprogrammingCourse\src\displaydata.c" > CMakeFiles\simple_example.dir\displaydata.c.i
 
-CMakeFiles/simple_example.dir/datatypes.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/simple_example.dir/datatypes.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\Text Book\C Programming\BasicCprogrammingCourse\src\datatypes.c" -o CMakeFiles\simple_example.dir\datatypes.c.s
+CMakeFiles/simple_example.dir/displaydata.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/simple_example.dir/displaydata.c.s"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\Text Book\C Programming\BasicCprogrammingCourse\src\displaydata.c" -o CMakeFiles\simple_example.dir\displaydata.c.s
 
 # Object files for target simple_example
 simple_example_OBJECTS = \
-"CMakeFiles/simple_example.dir/datatypes.c.obj"
+"CMakeFiles/simple_example.dir/displaydata.c.obj"
 
 # External object files for target simple_example
 simple_example_EXTERNAL_OBJECTS =
 
-simple_example.exe: CMakeFiles/simple_example.dir/datatypes.c.obj
+simple_example.exe: CMakeFiles/simple_example.dir/displaydata.c.obj
 simple_example.exe: CMakeFiles/simple_example.dir/build.make
 simple_example.exe: CMakeFiles/simple_example.dir/linklibs.rsp
 simple_example.exe: CMakeFiles/simple_example.dir/objects1.rsp

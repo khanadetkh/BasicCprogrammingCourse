@@ -49,6 +49,10 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="CMake Application.simple_example" />
+      <item itemvalue="CMake Application.simple_example (1)" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="CMake Application.simple_example (1)" />
@@ -64,22 +68,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592046616915" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592103572710">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592149799454">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592103572710" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1592103572710">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592149799454" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1592149799454">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592103572710" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1592103572710">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592149799454" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1592149799453">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592103572710" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1592103572710">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592149799453" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1592149799454">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592103572710" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592149799454" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1592046573726">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
