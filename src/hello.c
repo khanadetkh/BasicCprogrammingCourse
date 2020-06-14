@@ -1,6 +1,10 @@
-# include <stdio.h>
-void main()
+//
+// Created by pakbung on 13-Jun-20.
+//
+#include <stdio.h>
+void main(void)
 {
-    printf("hello world");
-
+    // My first program
+    printf("Hello World!!!");
 }
+

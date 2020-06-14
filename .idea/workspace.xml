@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="simple_example" targetName="simple_example" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="879c7fcc-098d-4b69-8b64-7d24a844349e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dFkKWTVqUvaf8hH70PRamiwNRv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/hello.c" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Text Book\C Programming\BasicCprogrammingCourse\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="simple_example" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="true" PASS_PARENT_ENVS_2="true" RUN_PATH="$PROJECT_DIR$/src/hello.c" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="879c7fcc-098d-4b69-8b64-7d24a844349e" name="Default Changelist" comment="" />
+      <created>1592028165107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592028165107</updated>
+      <workItem from="1592028168465" duration="722000" />
+      <workItem from="1592035638885" duration="2561000" />
+      <workItem from="1592040754529" duration="543000" />
+      <workItem from="1592041316850" duration="234000" />
+      <workItem from="1592041590396" duration="24000" />
+      <workItem from="1592041682114" duration="80000" />
+      <workItem from="1592041784799" duration="41000" />
+      <workItem from="1592041860294" duration="641000" />
+      <workItem from="1592044648688" duration="959000" />
+    </task>
+    <task id="LOCAL-00001" summary="๊Update">
+      <created>1592038578496</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592038578496</updated>
+    </task>
+    <task id="LOCAL-00002" summary="๊Update">
+      <created>1592040774131</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592040774131</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="๊Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="๊Update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592045599046">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592045599046" />
+    <state x="431" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592041482408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="431" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592041482408" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1592040773321">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592040773321" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1592045596252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592045596252" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592040659393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592040659393" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1592040659393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592040659393" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1592040659393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592040659393" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1592040659393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592040659393" />
+    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592038683105">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592038683105" />
+    <state x="445" y="279" width="672" height="677" key="run.anything.popup" timestamp="1592044665453">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="445" y="279" width="672" height="677" key="run.anything.popup/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592044665453" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1592028194663">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592028194663" />
+  </component>
+</project>
