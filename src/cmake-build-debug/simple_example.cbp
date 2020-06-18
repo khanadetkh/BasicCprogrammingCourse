@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/Text Book/C Programming/BasicCprogrammingCourse/src/displaydata.c">
+		<Unit filename="D:/Text Book/C Programming/BasicCprogrammingCourse/src/formatcode.c">
 			<Option target="simple_example"/>
 		</Unit>
 		<Unit filename="D:/Text Book/C Programming/BasicCprogrammingCourse/src/CMakeLists.txt">

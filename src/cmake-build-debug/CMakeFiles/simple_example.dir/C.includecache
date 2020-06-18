@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/Text Book/C Programming/BasicCprogrammingCourse/src/displaydata.c
+D:/Text Book/C Programming/BasicCprogrammingCourse/src/formatcode.c
 stdio.h
 -
-conio.h
+stdio.h
 -
 

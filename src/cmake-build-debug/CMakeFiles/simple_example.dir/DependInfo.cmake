@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/Text Book/C Programming/BasicCprogrammingCourse/src/displaydata.c" "D:/Text Book/C Programming/BasicCprogrammingCourse/src/cmake-build-debug/CMakeFiles/simple_example.dir/displaydata.c.obj"
+  "D:/Text Book/C Programming/BasicCprogrammingCourse/src/formatcode.c" "D:/Text Book/C Programming/BasicCprogrammingCourse/src/cmake-build-debug/CMakeFiles/simple_example.dir/formatcode.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

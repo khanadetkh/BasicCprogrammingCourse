@@ -122,32 +122,32 @@ simple_example/fast:
 	$(MAKE) -f CMakeFiles\simple_example.dir\build.make CMakeFiles/simple_example.dir/build
 .PHONY : simple_example/fast
 
-displaydata.obj: displaydata.c.obj
+formatcode.obj: formatcode.c.obj
 
-.PHONY : displaydata.obj
+.PHONY : formatcode.obj
 
 # target to build an object file
-displaydata.c.obj:
-	$(MAKE) -f CMakeFiles\simple_example.dir\build.make CMakeFiles/simple_example.dir/displaydata.c.obj
-.PHONY : displaydata.c.obj
+formatcode.c.obj:
+	$(MAKE) -f CMakeFiles\simple_example.dir\build.make CMakeFiles/simple_example.dir/formatcode.c.obj
+.PHONY : formatcode.c.obj
 
-displaydata.i: displaydata.c.i
+formatcode.i: formatcode.c.i
 
-.PHONY : displaydata.i
+.PHONY : formatcode.i
 
 # target to preprocess a source file
-displaydata.c.i:
-	$(MAKE) -f CMakeFiles\simple_example.dir\build.make CMakeFiles/simple_example.dir/displaydata.c.i
-.PHONY : displaydata.c.i
+formatcode.c.i:
+	$(MAKE) -f CMakeFiles\simple_example.dir\build.make CMakeFiles/simple_example.dir/formatcode.c.i
+.PHONY : formatcode.c.i
 
-displaydata.s: displaydata.c.s
+formatcode.s: formatcode.c.s
 
-.PHONY : displaydata.s
+.PHONY : formatcode.s
 
 # target to generate assembly for a file
-displaydata.c.s:
-	$(MAKE) -f CMakeFiles\simple_example.dir\build.make CMakeFiles/simple_example.dir/displaydata.c.s
-.PHONY : displaydata.c.s
+formatcode.c.s:
+	$(MAKE) -f CMakeFiles\simple_example.dir\build.make CMakeFiles/simple_example.dir/formatcode.c.s
+.PHONY : formatcode.c.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... simple_example
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... displaydata.obj
-	@echo ... displaydata.i
-	@echo ... displaydata.s
+	@echo ... formatcode.obj
+	@echo ... formatcode.i
+	@echo ... formatcode.s
 .PHONY : help
 
 
